@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ecco-lib", "ecco-lib.vcxproj", "{406AB3BC-D5A3-4DA6-B330-E9FE433177C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406AB3BC-D5A3-4DA6-B330-E9FE433177C3}.Debug|x64.ActiveCfg = Debug|x64
+		{406AB3BC-D5A3-4DA6-B330-E9FE433177C3}.Debug|x64.Build.0 = Debug|x64
+		{406AB3BC-D5A3-4DA6-B330-E9FE433177C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{406AB3BC-D5A3-4DA6-B330-E9FE433177C3}.Debug|x86.Build.0 = Debug|Win32
+		{406AB3BC-D5A3-4DA6-B330-E9FE433177C3}.Release|x64.ActiveCfg = Release|x64
+		{406AB3BC-D5A3-4DA6-B330-E9FE433177C3}.Release|x64.Build.0 = Release|x64
+		{406AB3BC-D5A3-4DA6-B330-E9FE433177C3}.Release|x86.ActiveCfg = Release|Win32
+		{406AB3BC-D5A3-4DA6-B330-E9FE433177C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {583A2746-6A16-4ED4-A997-1E3E7A62ED7B}
+	EndGlobalSection
+EndGlobal
